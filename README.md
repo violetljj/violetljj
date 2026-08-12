@@ -2,7 +2,7 @@
 
 Open-source maintainer building accessible, on-device technology.
 
-I am a graduate student in Electronic Information Engineering at Xidian University and the primary maintainer of [BlindAssist](https://github.com/violetljj/blind-assist). My work focuses on Android accessibility, on-device machine learning, reproducible evaluation, and evidence-bounded assistive-vision research.
+I am a graduate student at Xidian University's Guangzhou Research Institute, specializing in Next-Generation Electronic Information Technology, and the primary maintainer of [BlindAssist](https://github.com/violetljj/blind-assist). My work focuses on Android accessibility, on-device machine learning, reproducible evaluation, and evidence-bounded assistive-vision research.
 
 ## Featured project
 
